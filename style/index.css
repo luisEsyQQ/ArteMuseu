@@ -1,13 +1,13 @@
 @font-face {
-    font-family: cool;
-    src: url(/font/cool/coolvetica\ rg.otf);
+    font-family: lemon;
+    src: url(/font/LEMONMILK-Regular.otf);
 }
 
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: cool;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 50;
 }
 
